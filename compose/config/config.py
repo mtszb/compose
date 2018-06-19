@@ -117,6 +117,7 @@ DOCKER_CONFIG_KEYS = [
     'tty',
     'user',
     'userns_mode',
+    'uts',
     'volume_driver',
     'volumes',
     'volumes_from',
